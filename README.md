@@ -1,4 +1,4 @@
-# Resumo-computação-em-nuvem
+# Computação-em-nuvem-Azure
 Este repositório contém o resumo das lições aprendidas durante o bootcamp de computação em nuvem na DIO
 
 Conceito:  A **computação em nuvem** é um modelo de entrega de **serviços de tecnologia** em que recursos como **armazenamento**, **processamento de dados**, **software**, **redes** e muito mais são fornecidos pela internet, em vez de ficarem em servidores e data centers próprios. Com a nuvem, empresas e usuários podem acessar e utilizar esses recursos sob demanda, pagando apenas pelo que utilizam. Isso elimina a necessidade de investir em **infraestrutura física** cara e difícil de manter. A computação em nuvem permite **escala**, **flexibilidade** e **agilidade**, além de possibilitar o acesso a esses recursos de qualquer lugar e a qualquer momento. Os principais tipos de nuvem incluem a **pública**, a **privada** e a **híbrida**, cada uma com suas características e aplicações específicas.
